@@ -1,14 +1,9 @@
 # Seja bem vindo ao meu perfil GitHub 👋
 ## Quem sou?
 
- Olá, me chamo Luis Fernando Ramos Rios, atualmente tenho 19 anos. Estou no 1o Semestre de Análise e Desenvolvimento de Sistemas na instituição Fatec de Ararquara e também estou fazendo parte do projeto da Oracle em conjunto a Alura, o Programa ONE.
+ Olá, me chamo Luis Fernando Ramos Rios, atualmente tenho 19 anos. Estou no 1o Semestre de Análise e Desenvolvimento de Sistemas na instituição Fatec de Ararquara.
  
  Desde de 2020, durante a Pandemia, eu venho desenvolvendo interesse pela área de TI, porém desde criança me interessava por tecnologias, jogos e ficção-científica. Desde então venho buscando conhecimento, porém só agora na faculdade estou começando a aprender de fato a programar.
- 
- Até agora no ONE, venho tendo conhecimentos na Lógica de Programação e em Git e GitHub.
- Na faculdade estou vendo também Lógica de Programação e Algoritmos, Progamação em Microinformatica, Organização de Computadores e alguns conhecimentos em Hardware.
- 
- Desde já anseio entrar no mercado de trabalho, sendo em estágio ou efetivo, para consolidar meus conhecimentos na programação, mas também para adquirir experiência no mercado.
 
 ## Ferramentas e Tecnologias
 
