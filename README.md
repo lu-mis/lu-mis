@@ -1,9 +1,9 @@
 # Seja bem vindo ao meu perfil GitHub 👋
 ## Quem sou?
 
- Olá, me chamo Luis Fernando Ramos Rios, atualmente tenho 20 anos. Estou no 2o Semestre de Análise e Desenvolvimento de Sistemas na instituição Fatec de Ararquara.
+ Olá, me chamo Luis Fernando Ramos Rios, atualmente tenho 20 anos. Estou no 2o Semestre de Análise e Desenvolvimento de Sistemas na instituição Fatec de Araraquara.
  
- Desde de 2020, durante a Pandemia, eu venho desenvolvendo interesse pela área de TI, porém desde criança me interessava por tecnologias, jogos e ficção-científica. Desde então venho buscando conhecimento, porém só agora na faculdade estou começando a aprender de fato a programar.
+ Desde criança me interessava por tecnologias, jogos e ficção-científica. Então, durante a Pandemia em 2020, eu conheci área de TI e venho desenvolvendo interesse por programação. Desde então venho buscando conhecimento, mas agora na faculdade estou começando a aprender de fato a programar.
 
 ## Ferramentas e Tecnologias
 
