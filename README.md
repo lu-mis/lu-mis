@@ -25,12 +25,6 @@ Atualmente, dedico meus estudos autônomos ao ecossistema Python e bancos de dad
 
 ---
 
-## 🚀 Portfólio & Repositórios Principais
-* 📅 [API de Agendamento](https://github.com/luis-f-rios) *(Em desenvolvimento)* - Sistema construído em Python aplicando regras de negócio e persistência de dados.
-* 💻 [Estudos de Lógica e Algoritmos](https://github.com/luis-f-rios) - Desafios de código e conceitos fundamentais de computação.
-
----
-
 ## 📬 Vamos nos conectar?
 
 <div>
