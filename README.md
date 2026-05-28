@@ -1,22 +1,41 @@
-## Quem sou?
+# Olá, eu sou o Luis Fernando! 👋
 
- Olá, me chamo Luis Fernando Ramos Rios, atualmente tenho 20 anos. Estou no 3o Semestre de Análise e Desenvolvimento de Sistemas na instituição Fatec de Araraquara.
- 
- Desde criança me interessava por tecnologias, jogos e ficção-científica. Então, durante a Pandemia em 2020, eu conheci área de TI e venho desenvolvendo interesse por programação. Desde então venho buscando conhecimento, mas agora na faculdade estou começando a aprender de fato a programar.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-## Ferramentas e Tecnologias
+Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas na FATEC Araraquara**. Meu foco principal está na Engenharia de Software Backend, onde busco compreender a fundo a lógica de programação, estruturas de dados aplicadas e arquitetura de sistemas web.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+Atualmente, dedico meus estudos autônomos ao ecossistema Python e bancos de dados, unindo a base conceitual da faculdade com o desenvolvimento prático de aplicações e APIs.
 
-## Estou aprendendo 🚀
+---
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+## 🛠️ Ferramentas e Tecnologias
 
-## Contatos:
+### No dia a dia:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+
+### Desenvolvendo e Estudando Ativamente:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++ (Acadêmico)"/>
+
+---
+
+## 🚀 Portfólio & Repositórios Principais
+* 📅 [API de Agendamento](https://github.com/luis-f-rios) *(Em desenvolvimento)* - Sistema construído em Python aplicando regras de negócio e persistência de dados.
+* 💻 [Estudos de Lógica e Algoritmos](https://github.com/luis-f-rios) - Desafios de código e conceitos fundamentais de computação.
+
+---
+
+## 📬 Vamos nos conectar?
 
 <div>
-<a href = "mailto:luiz-ferandno-rios@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luis-f-r-rios" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:luiz-fernando-rios@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-f-r-rios" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 <!--
